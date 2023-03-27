@@ -22,7 +22,7 @@ public class Variaveis {
         System.out.println (n1);
 
         //Concatenando uma string a um valor
-        System.out.println ("O Numero 2: " + n2);
+        System.out.println ("O Numero 2 : " + n2);
 
         //Criando uma váriavel de soma
         int soma = n1 + n2;
